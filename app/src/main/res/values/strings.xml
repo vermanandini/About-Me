@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Nandini Verma</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">Hi my name is NandiniVerma
+        \n\n I am 20 years old.
+        \n\n I am currently persuing my under graduation from KIIT University.
+        \n\n I am doing B tech in Information technology branch.
+        \n\n I love writing code.
+        \n\n apart from code I love doing dance.
+        \n\n  I am learning Android Development nowadays.
+        \n\n  currently I am in Lucknow with my Family.
+        \n\n  Attending online classes from my home.
+        \n\n  learning new skills for cooking .
+        \n\n  That is it .
+        \n\n Thankyou\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
